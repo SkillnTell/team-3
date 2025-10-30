@@ -42,6 +42,10 @@ void getInput(int &a, int &b) {
     // TODO: Ask user to enter two integers and store them in a and b
     // Example:
     // "Enter two numbers: "
+    cout<<"Enter The First Number :";
+    cin>>a;
+    cout<<"Enter The Second Number :";
+    cin>>b;
 }
 
 
