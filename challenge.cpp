@@ -66,12 +66,11 @@ int getProduct(int a, int b) {
 
 // ======== Task 4: Display results (Member 4) ========
 void displayResults(int a, int b, int sum, int diff, int prod) {
-    // TODO: Display all results in a formatted way
-    // Example:
-    // "Numbers: 5 and 3"
-    // "Sum: 8"
-    // "Difference: 2"
-    // "Product: 15"
+   cout << "\n RESULTS\n";
+    cout << "Numbers: " << a << " and " << b << endl;
+    cout << "Sum: " << sum << endl;
+    cout << "Difference: " << diff << endl;
+    cout << "Product: " << prod << endl;
 }
 
 
