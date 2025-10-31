@@ -47,13 +47,14 @@ void getInput(int &a, int &b) {
 
 // ======== Task 2: Sum and Difference (Member 2) ========
 int getSum(int a, int b) {
-    // TODO: Return the sum of a and b
-    return 0;
+    
+    return a+b;
+
 }
 
 int getDifference(int a, int b) {
     // TODO: Return the difference (a - b)
-    return 0;
+    return a-b;
 }
 
 
