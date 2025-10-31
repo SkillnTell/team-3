@@ -49,12 +49,12 @@ void getInput(int &a, int &b) {
 int getSum(int a, int b) {
     
     return a+b;
-    
+
 }
 
 int getDifference(int a, int b) {
     // TODO: Return the difference (a - b)
-    return 0;
+    return a-b;
 }
 
 
