@@ -64,8 +64,8 @@ int getDifference(int a, int b) {
 
 // ======== Task 3: Product (Member 3) ========
 int getProduct(int a, int b) {
-    // TODO: Return the product of a and b
-    return a*b;
+    
+     return a*b;
 }
 
 
